@@ -3,6 +3,7 @@ import java.lang.Mat
 
 
 day 1 code 
+day 2 code
 
 import java.io.collection; 
 import java.io.scanner;
